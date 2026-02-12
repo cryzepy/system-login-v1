@@ -1,6 +1,6 @@
-# 🔐 User Management API (Express + MySQL + JWT)
+# 🔐 System Authentication API (Express + MySQL + JWT)
 
-REST API untuk sistem autentikasi dan manajemen user menggunakan Express.js, MySQL, dan JWT dengan arsitektur MVC.
+REST API untuk sistem autentikasi user menggunakan Express.js, MySQL, dan JWT dengan arsitektur MVC.
 
 Project ini dibuat sebagai simulasi backend aplikasi internal dengan fitur authentication dan role-based access control.
 
